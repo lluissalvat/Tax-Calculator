@@ -24,16 +24,16 @@ The script outputs the following values:
 
 This is an example output of the script for the following input variables (Annual Gross Pay: £50000, Monthly Expenses: £2000): 
 
-Income Tax Payment: £7,486.0
-National Insurance Payment: £4,852.32
-Student Loan Payment: £2,043.45
+Income Tax Payment: £7,486.0,
+National Insurance Payment: £4,852.32,
+Student Loan Payment: £2,043.45.
 
-Total Tax Payment: £14,381.77
-Effective Tax Rate: 28.76%
-Net Income: £35,618.23
+Total Tax Payment: £14,381.77,
+Effective Tax Rate: 28.76%,
+Net Income: £35,618.23.
 
-Annual Savings: £11,618.23
-Monthly Savings: £968.19
-Net Savings Rate: 32.62%
+Annual Savings: £11,618.23,
+Monthly Savings: £968.19,
+Net Savings Rate: 32.62%.
 
 Disclaimer: This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal or accounting advice. You should consult your own tax, legal and accounting advisors before engaging in any transaction.
