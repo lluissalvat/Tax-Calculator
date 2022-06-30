@@ -22,6 +22,8 @@ The script outputs the following values:
 8) Monthly Savings
 9) Net Savings Rate
 
+This script accounts for the loss of the personal allowance once the income exceeds £100,000.
+
 This is an example output of the script for the following input variables (Annual Gross Pay: £50000, Monthly Expenses: £2000): 
 
 Income Tax Payment: £7,486.0,
